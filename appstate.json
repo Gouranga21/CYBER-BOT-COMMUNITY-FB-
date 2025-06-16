@@ -1,7 +1,13 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+  { "name": "datr", "value": "bpdOaI2S0_ppxb4pnwCuW1Y2", "domain": ".facebook.com" },
+  { "name": "sb", "value": "t7NOaElQJmMRDyb9bPWCPj5C", "domain": ".facebook.com" },
+  { "name": "m_pixel_ratio", "value": "2.700000047683716", "domain": ".facebook.com" },
+  { "name": "wd", "value": "400x912", "domain": ".facebook.com" },
+  { "name": "c_user", "value": "61569422105732", "domain": ".facebook.com" },
+  { "name": "xs", "value": "16:XJ1HQKR5-11PYQ:2:1750070245:-1:-1", "domain": ".facebook.com" },
+  { "name": "fr", "value": "0XEoMfcgIg3RjT3Bi.AWd5MnnOQKmJCuGtdBnGHenOWHF6pfQnI9shw1BLoVytlf2sfGs.BoTpdu..AAA.0.0.BoT_Ps.AWclW9WUEThz8Bk7mitZDva9V8U", "domain": ".facebook.com" },
+  { "name": "locale", "value": "en_GB", "domain": ".facebook.com" },
+  { "name": "vpd", "value": "v1;775x400x2.700000047683716", "domain": ".facebook.com" },
+  { "name": "fbl_st", "value": "101637758;T:29167837", "domain": ".facebook.com" },
+  { "name": "wl_cbv", "value": "v2;client_version:2844;timestamp:1750070266", "domain": ".facebook.com" }
+]
